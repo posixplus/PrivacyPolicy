@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** [DATE BEFORE PUBLISHING]
+**Last Updated:** June 12 2026
 
 **THIS IS A DRAFT.** This privacy policy was generated from a description of
 the app and is not legal advice. Have a qualified attorney licensed in your
@@ -14,10 +14,10 @@ Google Play.
 Helping Hands ("we," "us," "the app") is an invite-only mobile application
 that allows verified community members in the Richmond, Virginia metropolitan
 area to share and discover trusted home-service contractors and post reviews.
-The app is operated by Jay [LAST NAME / ENTITY NAME], based in Virginia,
+The app is operated by Jay, based in Virginia,
 United States.
 
-Contact: [YOUR EMAIL ADDRESS, e.g. privacy@helpinghands.app]
+Contact: 2005jay@gmail.com
 
 ## 2. Information We Collect
 
@@ -90,7 +90,7 @@ as "Verified by admin," in which case an administrator has cross-checked the
 license against a public registry.
 
 If you are a contractor and believe information about your business posted in
-the app is inaccurate or defamatory, contact [YOUR EMAIL ADDRESS] and we will
+the app is inaccurate or defamatory, contact 2005jay@gmail.com and we will
 review and respond within a reasonable time.
 
 ## 5. Who We Share Your Information With
@@ -114,7 +114,7 @@ companies, or marketing platforms.
 ## 6. Your Rights
 
 Depending on where you live, you may have the following rights regarding your
-personal information. To exercise any of these, email [YOUR EMAIL ADDRESS]:
+personal information. To exercise any of these, email 2005jay@gmail.com:
 
 - **Access.** Request a copy of the personal information we hold about you.
 - **Correction.** Ask us to correct inaccurate information.
@@ -167,7 +167,7 @@ information, we will notify you in accordance with applicable law.
 The app is intended for users 18 years of age or older. We do not knowingly
 collect personal information from anyone under 18. If we learn we have
 collected such information, we will delete it. If you believe a minor has
-created an account, contact [YOUR EMAIL ADDRESS].
+created an account, contact 2005jay@gmail.com.
 
 ## 10. International Users
 
@@ -186,8 +186,7 @@ the app after a policy change constitutes acceptance.
 ## 12. Contact
 
 Questions, concerns, or requests:
-- Email: [YOUR EMAIL ADDRESS]
-- Mailing address: [OPTIONAL - your business mailing address]
+- Email: 2005jay@gmail.com
 
 ---
 
