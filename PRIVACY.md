@@ -2,7 +2,7 @@
 
 **Last Updated:** June 12 2026
 
-**THIS IS A DRAFT.** This privacy policy was generated from a description of
+This privacy policy was generated from a description of
 the app and is not legal advice. Have a qualified attorney licensed in your
 jurisdiction review and edit this before publishing it on the App Store or
 Google Play.
